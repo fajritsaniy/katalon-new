@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="User Test" time="2.748" tests="1" failures="0" errors="0">
+   <testsuite name="User Test" tests="1" failures="0" errors="0" time="2.748" skipped="0" timestamp="29-07-2024T08:15:16" hostname="fajritsani - localhost" id="Test Suites/User Test">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/fajritsani/git/katalon-new/Reports/20240729_081510/User Test/20240729_081510"/>
+         <property name="logFiles" value="/Users/fajritsani/git/katalon-new/Reports/20240729_081510/User Test/20240729_081510/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="fajritsani - localhost"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.6.0.217"/>
+      </properties>
+      <testcase name="Test Cases/Get User from API" time="2.456" classname="Test Cases/Get User from API" status="PASSED">
+         <system-out><![CDATA[29-07-2024T08:15:16 - [TEST_CASE][PASSED] - Test Cases/Get User from API: Test Cases/Get User from API
+
+29-07-2024T08:15:17 - [TEST_STEP][PASSED] - sendRequest(findTestObject("List User")): Send request successfully
+
+29-07-2024T08:15:18 - [MESSAGE][INFO] - HAR: /Users/fajritsani/git/katalon-new/Reports/20240729_081510/User Test/20240729_081510/requests/main/0.har
+
+29-07-2024T08:15:19 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[29-07-2024T08:15:16 - [TEST_SUITE][PASSED] - User Test: Test Cases/Get User from API]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
